@@ -27,7 +27,7 @@ def main():
         return prediction
 
     model = load_model()
-    class_names = ["Ant", "Tick"]
+    class_names = ["Tick", "Ant"]
     
 
     file = st.file_uploader("Choose a Ant or Tick picture in your file", type=["jpg", "png", "jpeg"])
