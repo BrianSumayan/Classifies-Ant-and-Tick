@@ -9,7 +9,7 @@ def main():
     st.write("Name: BRIAN SUMAYAN")
     st.write("Section: CPE32S6")
     st.write("Instructor: Dr. Jonathan Taylar")
-    st.title("Classfies Ant and Tick Images")
+    st.title("Classfies Ant and Tick Images (Ant/Tick)")
     st.write("This app classifies Ant and Tick images")
    
     @st.cache_resource
